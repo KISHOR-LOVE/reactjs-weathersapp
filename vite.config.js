@@ -1,8 +1,4 @@
-export default {
-  build: {
-    outDir: 'build', // or 'dist' depending on your configuration
-  },
-};
+
 
 
 import { defineConfig } from 'vite'
