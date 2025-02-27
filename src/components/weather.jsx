@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react'
-import "./Weather.css"
+import "./weather.css"
 
 
 import searchImage from "../assets/search.png";
